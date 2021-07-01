@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR": "Lasiya",
+    "AUTHOR": "Mr.Panda & Dil Sha N",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
@@ -117,7 +117,7 @@
         },
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
-            "NEED_REPLY": "*Reply to a photo!*",
+            "NEED_REPLY": "*Reply to a photo! (D2SX)*",
             "DOWNLOADING": "```Downloading media & making meme...```"
         },
         "ocr": {
@@ -129,7 +129,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going 🤠```",
+            "KICKME": "```Bye bye! I am going```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
              "NEED_USER": "Give me a user!",
             "JID_DESC": "Giving user's JID.",
@@ -157,15 +157,15 @@
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song jayasri sheela```"
-            "DOWNLOADING_SONG": "```Downloading your song...```",
-            "UPLOADING_SONG": "```Uploading your song...```",
+            "DOWNLOADING_SONG": "```Downloading your song (D2SX)...```",
+            "UPLOADING_SONG": "```Uploading your song (D2SX)...```",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video YTlink```",
-            "DOWNLOADING_VIDEO": "```Downloading your video...```",
-            "UPLOADING_VIDEO": "```Uploading your video...```",
+            "DOWNLOADING_VIDEO": "```Downloading your video (D2SX)...```",
+            "UPLOADING_VIDEO": "```Uploading your video (D2SX)...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
-            "GETTING_VIDEOS": "```I'm bringing videos...```",
+            "GETTING_VIDEOS": "```I'm bringing videos (D2SX) ...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
             "SEARCHING": "* 🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
@@ -255,7 +255,7 @@
             "MP4TOAUDİO": "```Converting Video to Audio..```",
             "STİCKER_DESC": "Converts the sticker to a photo.",
             "STİCKER_NEEDREPLY": "*You Must Reply to a sticker!*",
-            "STİCKER": "```Converting the sticker to a photo..```",
+            "STİCKER": "```Converting the sticker to a photo...```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
